@@ -1,5 +1,5 @@
 from telegram import Bot
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ConversationHandler
+from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import emoji
 
 bot = Bot(token='5602721625:AAG9YTpYwbgNmWgdV4Ll924W60Z9y0bEl74')
